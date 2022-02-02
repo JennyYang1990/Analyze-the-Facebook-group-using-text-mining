@@ -5,3 +5,5 @@ Previous studies investigated one group of people's views about gamification via
 We used text mining to interpret Facebook gamification groups' discussions. We analyzed the user profile descriptions to determine who were active participators in two Facebook gamification groups. 
 We also examined the posts' content that gets the most "like" and "comment" and conducted a topic modeling analysis to find the themes. 
 Our findings provide diverse views of gamification to researchers and practitioners and could support future development of gamification in new aspects.
+
+Reference: Yang, J., Ding, J., & An, Y. (2021, November). A Text Mining-based Analysis of Facebook Group Discussions on Gamification. In Innovate Learning Summit (pp. 232-240). Association for the Advancement of Computing in Education (AACE).
